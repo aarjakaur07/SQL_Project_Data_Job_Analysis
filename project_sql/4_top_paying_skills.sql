@@ -20,7 +20,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 25
+LIMIT 25;
 
 /*
 The analysis of the top 25 highest-paying data analyst skills reveals a clear 
